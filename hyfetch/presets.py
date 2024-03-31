@@ -231,6 +231,14 @@ PRESETS: dict[str, ColorProfile] = {
         '#1594F6',
     ]),
 
+    'twardogorasexual': ColorProfile([
+        '#D61818',
+        '#FFFFFF',
+        '#109441',
+        '#FFFFFF',
+        '#1477B5',
+    ]),
+
     # omnisexual sorced from https://www.flagcolorcodes.com/omnisexual
     'omnisexual': ColorProfile([
         '#FE9ACE',
@@ -667,3 +675,4 @@ PRESETS: dict[str, ColorProfile] = {
         '#F3A26A',
     ]),
 }
+
